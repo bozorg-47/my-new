@@ -1,0 +1,31 @@
+li{
+    color: chartreuse;
+}
+
+.main-title{
+    background-color: red;
+}
+
+.profile-image{
+    width: 30pc;
+    height: 30pc;
+    size: 3pc;
+    border-radius: 50px;
+}
+
+.navbar{
+    background-color: #333;
+    overflow: hidden;
+    color: azure;
+    padding: 10px;
+}
+
+.navbar span{
+    float: left;
+    
+
+}
+
+body{
+    margin: 0;
+}
